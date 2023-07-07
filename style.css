@@ -65,6 +65,11 @@ header nav button {
     animation-delay: 5s;
 }
 
+header nav i#menu {
+    font-size: 325%;
+    font-weight: 5%;
+}
+
 header nav button i {
     color: #cea570;
     position: relative;
